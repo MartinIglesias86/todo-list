@@ -14,3 +14,13 @@
     font-size: 15px;
     margin-bottom: 40px;
 }
+
+@media screen and (max-width: 768px) {
+    * {
+        overflow-x: hidden;
+    }
+    .img {
+        max-width: 100%;
+    }
+}
+    
