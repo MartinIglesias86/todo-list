@@ -1,0 +1,16 @@
+.container-empty-todos {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.container-empty-todos h2 {
+    font-weight: bold;
+    margin: 40px auto 0 auto;
+}
+.container-empty-todos p {
+    font-size: 15px;
+    margin-bottom: 40px;
+}
